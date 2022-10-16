@@ -1,0 +1,10 @@
+.serverIcon {
+  transform: scale(1.5);
+  align-items: center;
+  align-self: center;
+}
+
+.stack {
+  align-items: center;
+  align-self: center;
+}

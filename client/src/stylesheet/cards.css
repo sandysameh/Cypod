@@ -1,0 +1,13 @@
+.mycardbody {
+  padding: 0;
+  margin: 0;
+}
+
+.mycardbody {
+  /* background: linear-gradient(to left, #f0f1f3, #546e7a); */
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100%;
+}

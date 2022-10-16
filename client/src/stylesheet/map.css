@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+
+  position: relative;
+}
+
+.map-wrap {
+  position: absolute;
+  width: 100%;
+  height: calc(100vh - 77px);
+  text-align: center;
+  align-items: center;
+}

@@ -1,0 +1,5 @@
+.map-container {
+  float: right;
+  border-radius: 2px    ;
+  box-shadow: 0 4px 10px rgb(0, 0, 0, 0.2);
+}
